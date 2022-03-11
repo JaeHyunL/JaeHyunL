@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 👍Skils
+<img alt="Python" src ="https://img.shields.io/badge/Python-python-ffffff.svg?logo=python&style=plastic =500x500"> <img alt="Flask" src ="https://img.shields.io/badge/Flask-Flask-ffffff.svg?logo=flask&style=plastic=500x500"/> <img alt="Postgresql" src="https://img.shields.io/badge/Postgres-Postgres-ffffff.svg?logo=postgresql&style=plastic=500x500"/>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeHyunL)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHyunL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 	
