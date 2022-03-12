@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img alt="Python" src ="https://img.shields.io/badge/Python-python-ffffff.svg?logo=python&style=plastic =500x500"> <img alt="Flask" src ="https://img.shields.io/badge/Flask-Flask-ffffff.svg?logo=flask&style=plastic=500x500"/> <img alt="Postgresql" src="https://img.shields.io/badge/Postgres-Postgres-ffffff.svg?logo=postgresql&style=plastic=500x500"/>
 
 
-### DevOps
+### 💡DevOps
 <img alt="Docker" src="https://img.shields.io/badge/docker-docker-000000.svg?logo=docker&style=plastic=500x500"/>
 
 
