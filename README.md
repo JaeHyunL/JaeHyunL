@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 
 ### DevOps
-<img alt="Docker" src="https://img.shields.io/badge/docker-docker-000000.svg?logo=docker&style=plastic=500x500">
+<img alt="Docker" src="https://img.shields.io/badge/docker-docker-000000.svg?logo=docker&style=plastic=500x500"/>
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeHyunL)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHyunL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 	
