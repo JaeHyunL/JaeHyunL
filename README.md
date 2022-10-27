@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <img alt="OSM" src="https://img.shields.io/badge/openstreetmap-openstreetmap-ffffff.svg?logo=openstreetmap&style=plastic%20=500x500" />
 <img alt="OL" src="https://img.shields.io/badge/OpenLayers-OpenLayers-ffffff.svg?logo=OpenLayers&style=plastic%20=500x500" />
 <img alt="QGIS" src="https://img.shields.io/badge/Qgis-Qgis-ffffff.svg?logo=Qgis&style=plastic%20=500x500" />
+<img alt="React" src="https://img.shields.io/badge/React-React-ffffff.svg?logo=React&style=plastic%20=500x500" />
+<img alt="nextJs" src="https://img.shields.io/badge/Next-Next-ffffff.svg?logo=next.js&style=plastic%20=500x500" />
 <img alt="geoserver" src="https://img.shields.io/badge/geoserver-geoserver-ffffff.svg?logo=Qgis&style=plastic%20=500x500" />
 <img alt="android" src="https://img.shields.io/badge/Android-Android-ffffff.svg?logo=Android&style=plastic%20=500x500" />
 															
