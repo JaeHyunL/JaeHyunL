@@ -17,10 +17,3 @@
 <img alt="nextJs" src="https://img.shields.io/badge/Next-Next-ffffff.svg?logo=next.js&style=plastic%20=500x500" /><img alt="OL" src="https://img.shields.io/badge/OpenLayers-OpenLayers-ffffff.svg?logo=OpenLayers&style=plastic%20=500x500" />  <img alt="android" src="https://img.shields.io/badge/Android-Android-ffffff.svg?logo=Android&style=plastic%20=500x500" />	
 
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ch080808)](https://solved.ac/ch080808/)
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeHyunL&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHyunL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-	
-3...
